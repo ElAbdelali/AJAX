@@ -1,0 +1,14 @@
+[
+  {
+    "available": true,
+    "countries": ["US", "CA", "MX"],
+    "id": "watermelon",
+    "price": 5.0
+  },
+  {
+    "available": false,
+    "countries": [],
+    "id": "canteloupe",
+    "price": 50.0
+  }
+]
